@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @rv0907
-- 👀 I’m interested in ...devlopment.
-- 🌱 I’m currently learning ...web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hey there, I'm Rudraveer Singh (@rv0907)
 
-<!---
-rv0907/rv0907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about **development** and constantly exploring the vast world of **technology**.  
+🌱 Currently diving deep into **Web Development**, building full-stack applications using **MERN stack**.  
+💡 Always open to learning, collaborating, and contributing to real-world projects and open-source.
+
+## 👨‍💻 Coding Profiles
+- 🧠 [LeetCode](https://leetcode.com/u/Rudraveer_0907/) – Solving DSA problems regularly  
+- ⚔️ [Codeforces](https://codeforces.com/profile/Rudraveer__Singh) – Practicing competitive programming  
+- 📊 [GeeksforGeeks](https://www.geeksforgeeks.org/user/rudraveersingj7x1/) – Strengthening concepts through problem solving  
+- 🔗 [Codechef](https://www.codechef.com/users/rudra090_7) – practicing competitive programming
+
+## 🤝 Let's Connect
+- 💼 LinkedIn: [linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/rudraveer-singh-779214257/)  
+
+
+---
+
+> 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+Feel free to explore my repositories, contribute, or drop a message to collaborate!
