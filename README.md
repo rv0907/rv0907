@@ -11,7 +11,7 @@
 - 🔗 [Codechef](https://www.codechef.com/users/rudra090_7) – practicing competitive programming
 
 ## 🤝 Let's Connect
-- 💼 LinkedIn: [linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/rudraveer-singh-779214257/)  
+- 💼 LinkedIn: [linkedin.com/in/Rudraveer](https://www.linkedin.com/in/rudraveer-singh-779214257/)  
 
 
 ---
